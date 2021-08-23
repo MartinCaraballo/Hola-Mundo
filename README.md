@@ -1,3 +1,5 @@
+:tada: Martín Caraballo
+
 git config --global init.defaultBranch main
 
 git init Hola-Mundo
@@ -26,3 +28,14 @@ git pull origin main --allow-unrelated-histories
 git branch --set-upstream-to=origin/main main
 
 git push
+
+del README.md
+
+del .gitignore
+
+git clone https://github.com/MartinCaraballo/Hola-Mundo.git
+
+git branch dev
+
+git checkout dev
+
